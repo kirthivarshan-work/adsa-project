@@ -1,4 +1,4 @@
-**Intelligent Route Optimization Using Graph Algorithms in Advanced Data Structures**
+## Intelligent Route Optimization Using Graph Algorithms in Advanced Data Structures
 
 ## 1. Abstract
 
