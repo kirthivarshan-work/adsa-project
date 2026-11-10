@@ -1,8 +1,4 @@
-# Intelligent Route Optimization
-
-## Project title
-
-**Intelligent Route Optimization Using Graph Algorithms and Advanced Data Structures**
+**Intelligent Route Optimization Using Graph Algorithms in Advanced Data Structures**
 
 ## 1. Abstract
 
